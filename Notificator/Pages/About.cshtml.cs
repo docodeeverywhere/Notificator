@@ -12,7 +12,7 @@ namespace Notificator.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "This web site provides functionality to send notifications via Pushover.net service.";
         }
     }
 }

@@ -12,7 +12,7 @@ namespace Notificator.Pages
 
         public void OnGet()
         {
-            Message = "Your contact page.";
+            Message = "It was done by Anton Stepanov";
         }
     }
 }
